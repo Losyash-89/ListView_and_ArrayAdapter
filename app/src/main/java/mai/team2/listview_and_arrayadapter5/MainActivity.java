@@ -48,5 +48,15 @@ public class MainActivity extends AppCompatActivity {
         states.add(new State ("Колумбия", "Богота", R.drawable.a3));
         states.add(new State ("Уругвай", "Монтевидео", R.drawable.a4));
         states.add(new State ("Чили", "Сантьяго", R.drawable.a5));
+        states.add(new State ("Бразилия", "Бразилиа", R.drawable.a1));
+        states.add(new State ("Аргентина", "Буэнос-Айрес", R.drawable.a2));
+        states.add(new State ("Колумбия", "Богота", R.drawable.a3));
+        states.add(new State ("Уругвай", "Монтевидео", R.drawable.a4));
+        states.add(new State ("Чили", "Сантьяго", R.drawable.a5));
+        states.add(new State ("Бразилия", "Бразилиа", R.drawable.a1));
+        states.add(new State ("Аргентина", "Буэнос-Айрес", R.drawable.a2));
+        states.add(new State ("Колумбия", "Богота", R.drawable.a3));
+        states.add(new State ("Уругвай", "Монтевидео", R.drawable.a4));
+        states.add(new State ("Чили", "Сантьяго", R.drawable.a5));
     }
 }
